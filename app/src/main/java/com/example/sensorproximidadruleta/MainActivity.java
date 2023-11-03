@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
             ruleta.startAnimation(rotate);
             restart = false;
         }else {
-            texto.setText("Pasa tu mano para jugar");
+            texto.setText("Acerca tu mano para comenzar");
         }
     }
 
